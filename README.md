@@ -5,9 +5,8 @@ This project showcases a simple CSS loader animation, built with HTML and CSS. T
 
 ## Project Preview
 
-![Project Preview](![17291679414261047209807906587679](https://github.com/user-attachments/assets/1b94a014-e870-4fd7-bc00-bb075e80937e)
-)  
-*(Replace with a screenshot or GIF of your project)*
+![17291679414261047209807906587679](https://github.com/user-attachments/assets/7d66e653-8f8e-4478-b9a1-48c324561d54)
+
 
 ## Features
 - Custom animated CSS loader with four span elements
