@@ -1,5 +1,5 @@
 
-# CSS Loader Animation with HTML and CSS
+# CSS Square Loader Animation with HTML and CSS
 
 This project showcases a simple CSS loader animation, built with HTML and CSS. The animation consists of four span elements that move around a square in a visually appealing manner. It also includes a styled button linking to a YouTube channel.
 
