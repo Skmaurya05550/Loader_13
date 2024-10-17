@@ -5,7 +5,8 @@ This project showcases a simple CSS loader animation, built with HTML and CSS. T
 
 ## Project Preview
 
-![Project Preview](URL-to-screenshot-or-gif)  
+![Project Preview](![17291679414261047209807906587679](https://github.com/user-attachments/assets/1b94a014-e870-4fd7-bc00-bb075e80937e)
+)  
 *(Replace with a screenshot or GIF of your project)*
 
 ## Features
